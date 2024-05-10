@@ -93,16 +93,17 @@ h5{
         background: red;
     }
     header{
+        width: 359px;
         height: 200px;
     }
     .ola{
         background:#3C3940;
-        width: 358px;
+        width: 359px;
         padding: 15px;
 }
 .mundo{
     background: #4AA684;
-    width: 358px;
+    width: 359px;
     height: 300px;
     padding: 15px;
 }
