@@ -88,7 +88,7 @@ h5{
         flex-direction: column;
     }
     main{
-        width: 388px;
+        width: auto;
         margin: auto;
         background: red;
     }
@@ -98,12 +98,12 @@ h5{
     }
     .ola{
         background:#3C3940;
-        width: 359px;
+        width: 361px;
         padding: 15px;
 }
 .mundo{
     background: #4AA684;
-    width: 359px;
+    width: 361px;
     height: 300px;
     padding: 15px;
 }
