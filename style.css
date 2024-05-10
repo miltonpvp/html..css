@@ -92,9 +92,8 @@ h5{
         margin: auto;
     }
     header{
-        width: 360px;
+        width: 361px;
         height: 200px;
-        background: #ffff;
     }
     .ola{
         background:#3C3940;
@@ -107,4 +106,7 @@ h5{
     height: 300px;
     padding: 15px;
 }
+    .oi{
+        background: #fff;
+    }
 }
