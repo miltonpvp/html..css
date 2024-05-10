@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #DCC3A4;
+    width: 100vw;
+}
+main{
+    width: 800px;
+    margin: auto;
+    margin-top: 180px;
+}
+header{
+    height: 120px ;
+    background: #ffff;
+    padding: 15px;
+}
+section{
+    display: flex;
+}
+
+.ola{
+    background:#3C3940;
+    width: 400px;
+    padding: 15px;
+}
+.mundo{
+    background: #4AA684;
+    width: 400px;
+    height: 170px;
+    padding: 15px;
+}
+h1{
+    margin-bottom:10px;
+    color: #60A193;
+}
+h2{
+    margin-bottom: 10px;
+    color: #59D2A7;
+}
+header > p{
+    font-weight:bold ;
+}
+h3{
+    margin:10px 0px 10px 0px;
+    font-size: 25px;
+    color: #246345;
+}
+.ola > p{
+    font-weight:bold;
+    font-size: 25px;
+    margin-bottom:10px ;
+    color: #ffff;
+}
+h4{
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #ffff;
+}
+h6{
+    background: rgb(0, 0,0, 0);
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color:#409375;
+    border: solid #ffff;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+h5{
+    margin: 10px 0px 10px 0px;
+    font-size: 25px;
+    color: #ffff;
+}
+.mundo > p{
+    line-height: 25px;
+    text-align: justify;
+}
+@media screen and (max-width: 700px) {
+    section{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
