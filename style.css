@@ -90,11 +90,11 @@ h5{
     main{
         width: 388px;
         margin: auto;
-        background: red;
     }
     header{
-        width: 359px;
+        width: 360px;
         height: 200px;
+        background: #ffff;
     }
     .ola{
         background:#3C3940;
