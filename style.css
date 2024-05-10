@@ -87,5 +87,23 @@ h5{
         display: flex;
         flex-direction: column;
     }
-
+    main{
+        width: 360px;
+        margin: auto;
+        background: red;
+    }
+    header{
+        height: 200px;
+    }
+    .ola{
+        background:#3C3940;
+        width: 330px;
+        padding: 15px;
+}
+.mundo{
+    background: #4AA684;
+    width: 330px;
+    height: 300px;
+    padding: 15px;
+}
 }
